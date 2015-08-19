@@ -320,7 +320,7 @@ dogs. \textit{B}, the quick red fox landing gracefully despite the skepticism of
 \end{figure}
 
 \begin{figure}[h!]
-%\includegraphics{jumps20m}
+%\includegraphics{jumps_on_okapi}
 \caption{The quicker the red fox jumps, the likelier it is to land near an okapi. For further details, see 
 \citet{LemKapEx07}.}
 \label{Fig:JumpsOk}
