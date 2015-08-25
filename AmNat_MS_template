@@ -22,7 +22,8 @@
 % the commands \usepackage{lineno}, \linenumbers{} 
 % and \modulolinenumbers[3] below.
 
-\title{Template and Guidelines for Using \LaTeX{} in \textit{The~American~Naturalist}}
+\title{Template and Guidelines for Using \LaTeX{} 
+in \textit{The~American~Naturalist}}
 
 %%%%%%%%%%%%%%%%%%%%%
 % Authorship
@@ -45,7 +46,8 @@ Additional Q. Expert$^{3}$}
 
 \noindent{}2. University of Toronto, Toronto, Ontario M5S 1A5, Canada;
 
-\noindent{}3. Middle Eastern Technical University, \c{C}ankaya, Ankara 06800, Turkey.
+\noindent{}3. Middle Eastern Technical University, \c{C}ankaya, 
+Ankara 06800, Turkey.
 
 \noindent{}$\ast$ Corresponding author; e-mail: amnat@uchicago.edu.
 
@@ -70,7 +72,8 @@ print in color.
 
 \bigskip
 
-\noindent{\footnotesize Prepared using the suggested \LaTeX{} template for \textit{Am.\ Nat.}}
+\noindent{\footnotesize Prepared using the suggested \LaTeX{} 
+template for \textit{Am.\ Nat.}}
 
 \linenumbers{}
 \modulolinenumbers[3]
@@ -256,7 +259,6 @@ pretium, dolor ex interdum ante, sed luctus quam eros ac nulla.
 
 \newpage{}
 
-
 %%%%%%%%%%%%%%%%%%%%%
 % Bibliography
 %%%%%%%%%%%%%%%%%%%%%
@@ -268,12 +270,15 @@ pretium, dolor ex interdum ante, sed luctus quam eros ac nulla.
 % The list below includes sample journal articles, book chapters, and
 % Dryad references.
 
+%\bibliographystyle{amnatnat}
 \begin{thebibliography}{}
 
 \bibitem[{Cook et~al.(2015)Cook, Collaborator, and Expert}]{CookEtAl2015}
 Cook, O.~E., G.~H. Collaborator, and A.~Q. Expert. 2015.
-\newblock Data from: Template and Guidelines for Using \LaTeX{} in \textit{The American Naturalist}.
-\newblock American Naturalist, Dryad Digital Repository, http://dx.doi.org/10.5061/dryad.XYZAB.
+\newblock Data from: Template and Guidelines for Using \LaTeX{} 
+in \textit{The American Naturalist}.
+\newblock American Naturalist, Dryad Digital Repository, 
+http://dx.doi.org/10.5061/dryad.XYZAB.
 
 \bibitem[{Davis et~al.(2011)Davis, Brakora, and Lee}]{DavisEtAl2011}
 Davis, E.~B., K.~A. Brakora, and A.~H. Lee. 2011.
@@ -286,7 +291,8 @@ Inglis, R.~F., P.~G. Roberts, A.~Gardner, and A.~Buckling. 2011.
   aeruginosa}.
 \newblock American Naturalist 178:276--285.
 
-\bibitem[{Lemod\`{e}le et~al.(2007)Lemodele, Kapitelschreiber, and Exemplar}]{LemKapEx07}
+\bibitem[{Lemod\`{e}le et~al.(2007)Lemodele, Kapitelschreiber, 
+and Exemplar}]{LemKapEx07}
 Lemod\`{e}le, P.-Q., A.~B. Kapitelschreiber, and C.~D.~E. Exemplar. 2007.
 \newblock An exemplary instance of chapters in books.
 \newblock Pages 231--245 \emph{in} J.-P. \'{E}crivain and M.~A. 
