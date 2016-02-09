@@ -34,7 +34,7 @@ in \textit{The~American~Naturalist}}
 
 \author{Owen E. Cook$^{1,\ast}$ \\ 
 Generic H. Collaborator$^{2,\dag}$ \\ 
-Additional Q. Expert$^{3}$}
+Additional Q. Expert$^{3,\ddag}$}
 
 \date{}
 
@@ -52,6 +52,8 @@ Ankara 06800, Turkey.
 \noindent{}$\ast$ Corresponding author; e-mail: amnat@uchicago.edu.
 
 \noindent{}$\dag$ Deceased.
+
+\noindent{}$\ddag$ ORCIDs: Cook, 0000-0002-1234-5678; Collaborator, 0000-0001-5678-9123; Expert, 0000-0003-3456-789X.
 
 \bigskip
 
@@ -177,11 +179,11 @@ blandit odio.
 %%%%%%%%%%%%%%%%%%%%%
 % Acknowledgments
 %%%%%%%%%%%%%%%%%%%%%
-% You may wish to remove the Acknowledgments section while your paper 
-% is under review (unless you wish to waive your anonymity under
-% double-blind review) if the Acknowledgments reveal your identity.
-% If you remove this section, you will need to add it back in to your
-% final files after acceptance.
+% You are encouraged to remove the Acknowledgments section while
+% your paper is under review (unless you wish to waive your anonymity
+% under double-blind review) if the Acknowledgments reveal your
+% identity. If you remove this section, you will need to add it back
+% in to your final files after acceptance.
 
 \section*{Acknowledgments}
 
@@ -275,7 +277,7 @@ pretium, dolor ex interdum ante, sed luctus quam eros ac nulla.
 
 \bibitem[{Cook et~al.(2015)Cook, Collaborator, and Expert}]{CookEtAl2015}
 Cook, O.~E., G.~H. Collaborator, and A.~Q. Expert. 2015.
-\newblock Data from: Template and Guidelines for Using \LaTeX{} 
+\newblock Data from: Template and guidelines for using \LaTeX{} 
 in \textit{The American Naturalist}.
 \newblock American Naturalist, Dryad Digital Repository, 
 http://dx.doi.org/10.5061/dryad.XYZAB.
@@ -338,7 +340,7 @@ in both of the major Chicagoland zoos.}
 %%%%%%%%%%%%%%%%%%%%%
 % Please include all figure legends in a separate section at the end of 
 % the document. If you use \label{} and \ref{} to refer to your figures,
-% these should still work even if you comment out the %includegraphics{}
+% these can still work even if you comment out the %includegraphics{}
 % line. If you refer to figures as "fig. 1" (etc.) manually, the
 % legends can also appear simply as paragraphs.
 % For submission, please upload the relevant figure files separately to
@@ -351,7 +353,7 @@ in both of the major Chicagoland zoos.}
 
 \begin{figure}[h!]
 %\includegraphics{horn-of-okapi}
-\caption{The knobby protrusions at the top of the okapi's head. Figure 
+\caption{Figure 
 legends should be concise, though they can be longer than the titles of 
 tables.}
 \label{Fig:OkapiHorn}
@@ -360,7 +362,7 @@ tables.}
 \begin{figure}[h!]
 %\includegraphics{elegance}
 \caption{In this way, figure legends can be listed at the end of the 
-document, with references that work, even if the graphic itself appears 
+document, with references that work, even if the graphic itself is uploaded
 separately.}
 \label{Fig:AnotherFigure}
 \end{figure}
